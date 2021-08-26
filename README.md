@@ -1,4 +1,4 @@
-Project Title: Build-Bank (Capstone)
+Project Title: Build-Bank (Capstone) /br
 Description: Build a banking application as Capstone of MIT Full-Stack Programming Course. This is a basic banking application that anyone can use to add user accounts and update monetary balances within.
 Installation Guidelines: *Clone or Download
                          *Install all dependencies using 'npm init'
